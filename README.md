@@ -16,4 +16,4 @@ Students like me are a dime a dozen, but I do believe I present a valuable asset
 
 Easy-going, but pedant and precise, I bring a calm atmosphere to a stressful workspace in order to get the job done and motivate team members to focus.
 
-Currently available for projects, DMs and email are open.
+Currently available for projects. You can find me on LinkedIn or by email: barbara.rados22@gmail.com
