@@ -12,8 +12,6 @@ Students like me are a dime a dozen, but I do believe I present a valuable asset
 4. Wide range of knowledge and interests
 5. Fast learning
 
-...and, of course, a shoulder to cry on when the errors begin to bully you.
-
 Easy-going, but pedant and precise. Capable of working in a team or by myself.
 
 Currently available for projects. You can find me on LinkedIn or by email: barbara.rados22@gmail.com
