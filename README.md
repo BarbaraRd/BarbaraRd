@@ -1,43 +1,71 @@
-## 👩‍💻 About Me
+======================================================================
+     *     .      *       .      *      .      *      .      *
+======================================================================
 
-I am a Computer Engineering student with a strong interest in cybersecurity, cloud technologies, and modern software infrastructure.
+                           Barbara Radoš
 
-I enjoy understanding how systems work end-to-end — from application logic and APIs to deployment environments and security considerations. My projects focus on building structured applications, experimenting with system architecture, and continuously improving my understanding of software reliability, version control, and backend fundamentals.
+======================================================================
+        Computer Engineering Student | Security • Cloud • DevOps
+======================================================================
 
-I am particularly interested in:
-- Cybersecurity fundamentals and secure system design
-- Cloud computing concepts and infrastructure
-- DevOps practices and automation
-- Backend system architecture
-- Version control and collaborative workflows
+I am passionate about understanding how systems work end-to-end —
+from application logic and APIs to infrastructure, automation,
+and security considerations.
 
----
+My focus is on building strong foundations across software
+engineering, infrastructure, and cybersecurity, while gradually
+specializing in cloud and secure system design.
 
-## Technical Skills
+----------------------------------------------------------------------
+:: INTERESTS
+----------------------------------------------------------------------
 
-### Programming
-- Java
-- Python
-- C, C++
+  + Cybersecurity fundamentals & secure system design
+  + Cloud computing & distributed systems
+  + DevOps practices & automation
+  + Backend architecture & system reliability
+  + Version control & collaborative workflows
 
-### Web & Application Development
-- HTML, CSS, JavaScript
-- API-based application development
-- Layered application architecture
+----------------------------------------------------------------------
+:: TECHNICAL SKILLS
+----------------------------------------------------------------------
 
-### Security & Infrastructure Interests
-- Secure coding principles
-- Basic networking concepts
-- System-level understanding
-- Linux environments
+[ Programming ]
+  - Java
+  - Python
+  - C
+  - C++
 
-### Tools & Workflow
-- Git
-- GitHub
-- Postman
-- Version control best practices
+[ Web & Application Development ]
+  - HTML
+  - CSS
+  - JavaScript
+  - API-based application development
+  - Layered architecture principles
 
-### Data & Systems
-- MySQL
-- Linux / Windows
-- MS Office
+[ Security & Infrastructure ]
+  - Secure coding principles
+  - Basic networking concepts
+  - Linux environments
+  - System-level understanding
+
+[ Tools & Workflow ]
+  - Git
+  - GitHub
+  - Postman
+  - Version control best practices
+
+[ Data & Systems ]
+  - MySQL
+  - Linux / Windows
+  - MS Office
+
+======================================================================
+      *     .      *       .      *      .      *      .      *
+======================================================================
+
+              /\_/\  
+             ( o.o ) 
+              > ^ <   
+
+         curious. disciplined. continuously learning.
