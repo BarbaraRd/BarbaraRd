@@ -1,21 +1,22 @@
-======================================================================
-     *     .      *       .      *      .      *      .      *
-======================================================================
-======================================================================
-        Computer Engineering Student | Security • Cloud • DevOps
-======================================================================
+<pre>
+========================================================================
+        *     .     *     .     *     .     *     .     *
+========================================================================
+========================================================================
+     Computer Engineering Student | Security • Cloud • DevOps
+========================================================================
 
-I am passionate about understanding how systems work end-to-end —
-from application logic and APIs to infrastructure, automation,
-and security considerations.
+I am interested in understanding systems end-to-end —
+from application logic and APIs to infrastructure,
+automation, and security considerations.
 
-My focus is on building strong foundations across software
-engineering, infrastructure, and cybersecurity, while gradually
-specializing in cloud and secure system design.
+My goal is to build strong foundations across software
+engineering, infrastructure, and cybersecurity while
+gradually specializing in cloud and secure system design.
 
-----------------------------------------------------------------------
-:: INTERESTS
-----------------------------------------------------------------------
+------------------------------------------------------------------------
+INTERESTS
+------------------------------------------------------------------------
 
   + Cybersecurity fundamentals & secure system design
   + Cloud computing & distributed systems
@@ -23,9 +24,9 @@ specializing in cloud and secure system design.
   + Backend architecture & system reliability
   + Version control & collaborative workflows
 
-----------------------------------------------------------------------
-:: TECHNICAL SKILLS
-----------------------------------------------------------------------
+------------------------------------------------------------------------
+TECHNICAL SKILLS
+------------------------------------------------------------------------
 
 [ Programming ]
   - Java
@@ -57,12 +58,13 @@ specializing in cloud and secure system design.
   - Linux / Windows
   - MS Office
 
-======================================================================
-      *     .      *       .      *      .      *      .      *
-======================================================================
+========================================================================
+        *     .     *     .     *     .     *     .     *
+========================================================================
 
-              /\_/\  
-             ( o.o ) 
-              > ^ <   
+                 /\_/\  
+                ( o.o ) 
+                 > ^ <  
 
-         curious. disciplined. continuously learning.
+        curious. disciplined. continuously learning.
+</pre>
