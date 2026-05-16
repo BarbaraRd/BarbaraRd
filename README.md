@@ -1,9 +1,8 @@
-<pre>
 ========================================================================
         *     .     *     .     *     .     *     .     *
 ========================================================================
 ========================================================================
-     Computer Engineering Student | Security • Cloud • DevOps
+ Computer Engineering Student | Security • Cloud • DevOps • Backend
 ========================================================================
 
 I am interested in understanding systems end-to-end —
@@ -23,6 +22,8 @@ INTERESTS
   + DevOps practices & automation
   + Backend architecture & system reliability
   + Version control & collaborative workflows
+  + AI systems & machine learning workflows
+  + Infrastructure & self-hosted systems
 
 ------------------------------------------------------------------------
 TECHNICAL SKILLS
@@ -30,31 +31,41 @@ TECHNICAL SKILLS
 
 [ Programming ]
   - Java
+  - JavaScript
   - Python
+  - PHP
   - C
   - C++
+  - C#
 
 [ Web & Application Development ]
+  - Laravel
   - HTML
   - CSS
-  - JavaScript
   - API-based application development
   - Layered architecture principles
+  - Backend development
 
 [ Security & Infrastructure ]
   - Secure coding principles
   - Basic networking concepts
   - Linux environments
   - System-level understanding
+  - Docker
+  - FreeBSD
+  - TrueNAS
 
 [ Tools & Workflow ]
   - Git
   - GitHub
   - Postman
+  - Cursor
+  - Claude Code
   - Version control best practices
 
 [ Data & Systems ]
   - MySQL
+  - PostgreSQL
   - Linux / Windows
   - MS Office
 
@@ -67,4 +78,3 @@ TECHNICAL SKILLS
                  > ^ <  
 
         curious. disciplined. continuously learning.
-</pre>
